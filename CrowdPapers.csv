@@ -1,0 +1,190 @@
+title,data_used,use_case_scenario,forecasting_scenario,year,nr_citations,approach
+Mobile phone data and COVID-19: Missing an opportunity?,CDR,Covid-19,ShortTerm,2020,29,Evaluation
+Anonymised and aggregated crowd level mobility data from mobile phones suggests that initial compliance with COVID-19 social distancing interventions was high and geographically consistent across the UK,CDR,Covid-19,ShortTerm,2020,1,Evaluation
+Effects of human mobility restrictions on the spread of COVID-19 in Shenzhen China: a modelling study using mobile phone data,CDR,Covid-19,ShortTerm,2020,3,Evaluation
+Impacts of State-Level Policies on Social Distancing in the United States Using Aggregated Mobility Data during the COVID-19 Pandemic,CDR,Covid-19,ShortTerm,2020,13,Evaluation
+Measuring mobility to monitor travel and physical distancing interventions: a common framework for mobile phone data analysis,CDR,Covid-19,ShortTerm,2020,1,Evaluation
+Mobile phone data for informing public health actions across the COVID-19 pandemic life cycle,CDR,Covid-19,ShortTerm,2020,48,Evaluation
+Aggregated mobility data could help fight COVID-19,CDR,Covid-19,ShortTerm,2020,89,Evaluation
+WiFi-based Crowd Monitoring and Workspace Planning for COVID-19 Recovery,WiFi,CrowdBehavior,ShortTerm,2020,0,Model
+The impact of COVID-19 on relative changes in aggregated mobility using mobile-phone data,CDR,Covid-19,ShortTerm,2020,0,Evaluation
+Mobile phone data analytics against the COVID-19 epidemics in Italy: flow diversity and local job markets during the national lockdown,CDR,Covid-19,ShortTerm,2020,4,Evaluation
+Mobile phone location data reveal the effect and geographic variation of social distancing on the spread of the COVID-19 epidemic,CDR,Covid-19,ShortTerm,2020,11,Evaluation
+Lockdown timing and efficacy in controlling COVID-19 using mobile phone tracking,CDR,Covid-19,ShortTerm,2020,6,Evaluation
+Association of Mobile Phone Location Data Indications of Travel and Stay-at-Home Mandates With COVID-19 Infection Rates in the US,CDR,Covid-19,ShortTerm,2020,1,Evaluation
+First second and potential third generation spreads of the COVID-19 epidemic in mainland China: an early exploratory study incorporating location-based service data of mobile devices,CDR,Covid-19,ShortTerm,2020,0,Evaluation
+Population flow drives spatio-temporal distribution of COVID-19 in China,CDR,Covid-19,ShortTerm,2020,81,Evaluation
+Human mobility and COVID-19 initial dynamics,CDR,Covid-19,ShortTerm,2020,1,Evaluation
+Projections for first-wave COVID-19 deaths across the US using social-distancing measures derived from mobile phones,CDR,Covid-19,ShortTerm,2020,13,Evaluation
+Population mobility reductions during COVID-19 epidemic in France under lockdown,CDR,Covid-19,ShortTerm,2020,11,Evaluation
+COVID-19 lockdown induces structural changes in mobility networks -- Implication for mitigating disease dynamics,CDR,Covid-19,ShortTerm,2020,2,Evaluation
+Effect of a federal paid sick leave mandate on working and staying at home: Evidence from cellular device data,CDR,Covid-19,ShortTerm,2020,13,Evaluation
+Quest: Practical and Oblivious Mitigation Strategies for COVID-19 using WiFi Datasets,WiFi,Covid-19,ShortTerm,2020,3,Evaluation
+Potential for inter-state spread of Covid-19 from Arizona USA: Analysis of mobile device-location and commercial flight data,Mix,Covid-19,ShortTerm,2020,1,Evaluation
+Estimating Pedestrian Destinations Using Traces from WiFi Infrastructures,WiFi,CrowdFlowPrediction,ShortTerm,2020,12,Model
+Deep multi-view residual attention network for crowd flows prediction,CDR,CrowdFlowPrediction,ShortTerm,2020,0,ML_DL
+Pedestrian Activity Pattern Mining in WiFi-Network Connection Data,WiFi,CrowdFlowPrediction,ShortTerm,2016,14,ML_DL
+How to Measure Static Crowds? Monitoring the Number of Pedestrians at Large Open Areas by Means of Wi-Fi Sensors,WiFi,CrowdFlowPrediction,ShortTerm,2018,5,Evaluation
+A Bayesian Approach to Detect Pedestrian Destination—Sequences from Wi-Fi Signatures,WiFi,CrowdFlowPrediction,ShortTerm,2014,73,Model
+Detecting high indoor crowd density with Wi-Fi localization: a statistical mechanics approach,WiFi,CrowdDensityPrediction,ShortTerm,2019,2,Model
+Crowd Forecasting Based on WiFi Sensors and LSTM Neural Networks,WiFi,BigEvents,RealTime,2020,2,ML_DL
+Understanding Crowd Behaviors in a Social Event by Passive WiFi Sensing and Data Mining,WiFi,BigEvents,ShortTerm,2020,1,ML_DL
+Occupancy prediction through machine learning and data fusion of environmental sensing and Wi-Fi sensing in buildings,WiFi,OccupancyPrediction,ShortTerm,2018,27,Evaluation
+Tracking Human Mobility Using WiFi Signals,WiFi,CrowdFlowPrediction,LongTerm,2015,109,Evaluation
+A Statistical Approach in Designing an RF-Based Human Crowd Density Estimation System,WiFi,CrowdDensity,LongTerm,2016,18,Model
+Understanding Urban Human Mobility through Crowdsensed Data,WiFi,CrowdFlowPrediction,LongTerm,2019,20,Evaluation
+Spatial crime distribution and prediction for sporting events using social media,Social,CrimePrediction,ShortTerm,2020,2,Methodology
+Crowd characterization for crowd management using social media data in city events,Social,CrowdManagement,ShortTerm,2020,1,Evaluation
+A Crowd Monitoring Framework using Emotion Analysis of Social Media for Emergency Management in Mass Gatherings,Social,EmergencyManagement,RealTime,2015,10,Model
+Integrating Social Media with Ontologies for RealTime Crowd Monitoring and Decision Support in Mass Gatherings,Social,CrowdManagement,RealTime,2013,9,Model
+Identifying urban crowds using geo-located Social media data: a Twitter experiment in New York City,Social,CrowdFlowPrediction,ShortTerm,2016,19,Model
+Quantifying crowd size with mobile phone and Twitter data,Social,CrowdDensityPrediction,ShortTerm,2015,119,Evaluation
+Over-crowdedness Alert! Forecasting the Future Crowd Distribution,Vision,CrowdDensityDetection,ShortTerm,2020,0,ML_DL
+Crowd Density Forecasting by Modeling Patch-based Dynamics,Vision,CrowdDensityPrediction,ShortTerm,2019,0,ML_DL
+Switching Convolutional Neural Network for Crowd Counting,Vision,CrowdCounting,ShortTerm,2017,371,ML_DL
+Large scale crowd analysis based on convolutional neural network,Vision,CrowdSurveillance,RealTime,2015,33,ML_DL
+Multi-scale convolutional neural networks for crowd counting,Vision,CrowdCounting,RealTime,2017,88,ML_DL
+Fully Convolutional Neural Networks for Crowd Segmentation,Vision,CrowdSegmentation,ShortTerm,2014,110,ML_DL
+From Crowd Dynamics to Crowd Safety: A Video-Based Analysis,Vision,CrowdSafety,RealTime,2008,275,Evaluation
+Video-based crowd density estimation and prediction system for wide-area surveillance,Vision,CrowdDensity,ShortTerm,2013,17,Model
+Convolutional Nonlinear Differential Recurrent Neural Networks for Crowd Scene Understanding,Vision,CrowdSceneUnderstanding,RealTime,2018,2,ML_DL
+Fast crowd density estimation with convolutional neural networks,Vision,CrowdDensity,ShortTerm,2015,97,ML_DL
+Deep People Counting in Extremely Dense Crowds,Vision,CrowdCounting,RealTime,2015,187,ML_DL
+FCCF: Forecasting Citywide Crowd Flows Based on Big Data,Mix,CrowdFlowPrediction,ShortTerm,2016,108,ML_DL
+Estimating Pedestrian Densities Wait Times and Flows with Wi-Fi and Bluetooth Sensors,Mix,CrowdDensity,ShortTerm,2017,35,Methodology
+Selection of Significant On-Road Sensor Data for Short-Term Traffic Flow Forecasting Using the Taguchi Method,RoadSensors,TrafficForecasting,ShortTerm,2012,42,Methodology
+An Intelligent Particle Swarm Optimization for Short-Term Traffic Flow Forecasting Using on-Road Sensor Systems,RoadSensors,TrafficForecasting,ShortTerm,2013,83,Methodology
+Spatial Extension of Road Traffic Sensor Data with Artificial Neural Networks,RoadSensors,TrafficForecasting,ShortTerm,2018,6,ML_DL
+Hybrid Traffic Forecasting Model With Fusion of Multiple Spatial Toll Collection Data and Remote Microwave Sensor Data,Mix,TrafficForecasting,ShortTerm,2018,6,ML_DL
+Deep learning for short-term traffic flow prediction,RoadSensors,TrafficForecasting,ShortTerm,2017,443,ML_DL
+Long short-term memory neural network for traffic speed prediction using remote microwave sensor data,RoadSensors,TrafficForecasting,ShortTerm,2015,787,ML_DL
+Utilizing Real-World Transportation Data for Accurate Traffic Prediction,RoadSensors,TrafficForecasting,ShortTerm,2012,134,Methodology
+Short Term Urban Traffic Forecasting Using Deep Learning,RoadSensors,TrafficForecasting,ShortTerm,2018,2,ML_DL
+Optimized Structure of the Traffic Flow Forecasting Model With a Deep Learning Approach,RoadSensors,TrafficForecasting,ShortTerm,2016,135,ML_DL
+Traffic Flow Prediction for Road Intersection Safety,Mix,TrafficForecasting,ShortTerm,2018,11,ML_DL
+Road Traffic Forecasting: Recent Advances and New Challenges,Mix,TrafficForecasting,ShortTerm,2018,83,Evaluation
+A Gaussian Maximum Likelihood Formulation for Short-Term Forecasting of Traffic Flow,RoadSensors,TrafficForecasting,ShortTerm,2001,68,Model
+Continuum Modelling of Pedestrian Flows: From Microscopic Principles to Self-Organised Macroscopic Phenomena,Mix,CrowdFlowPrediction,ShortTerm,2014,57,Evaluation
+Pedestrian-Movement Prediction Based on Mixed Markov-Chain Model,WiFi,CrowdFlowPrediction,ShortTerm,2011,191,Model
+Countrywide arrhythmia: emergency event detection using mobile phone data,CDR,EmergencyManagement,RealTime,2016,26,Model
+Inferring Unusual Crowd Events from Mobile Phone Call Detail Record,CDR,CrowdManagement,ShortTerm,2015,46,Methodology
+PULSE: A Real Time System for Crowd Flow Prediction at Metropolitan Subway Stations,Mix,CrowdFlowPrediction,RealTime,2016,12,ML_DL
+Realtime Pedestrian Path Prediction Using Global and Local Movement Patterns,Vision,CrowdFlowPrediction,RealTime,2016,43,Model
+Pedestrian Reactive Navigation for Crowd Simulation: A Predictive Approach,Simulation,CrowdSimulation,LongTerm,2007,287,Model
+Social Force Model for Pedestrian Dynamics,Simulation,CrowdSimulation,LongTerm,1998,5332,Model
+Social LSTM: Human Trajectory Prediction in Crowded Spaces,Mix,CrowdFlowPrediction,ShortTerm,2016,991,ML_DL
+Deep Crowd-Flow Prediction in Built Environments,Simulation,CrowdFlowPrediction,ShortTerm,2019,0,ML_DL
+Dynamic Simulation Assignment Model for Pedestrian Movements in Crowded Networks,Simulation,CrowdFlowPrediction,Mix,2012,29,Model
+Predicting crowd behavior with big public data,Mix,CrowdForecasting,Mix,2014,86,Evaluation
+Deep Spatio-Temporal Residual Networks for Citywide Crowd Flows Prediction,Mix,CrowdFlowPrediction,ShortTerm,2017,625,ML_DL
+Prediction of human crowd pressures,Vision,CrowdManagement,RealTime,2006,67,Methodology
+CityMomentum: an online approach for crowd behavior prediction at a citywide level,Mix,CrowdForecasting,ShortTerm,2015,46,ML_DL
+DeepUrbanEvent: A System for Predicting Citywide Crowd Dynamics at Big Events,Vision,CrowdManagement,ShortTerm,2019,16,ML_DL
+VLUC: An Empirical Benchmark for Video-Like Urban Computing on Citywide Crowd and Traffic Prediction,Vision,CrowdFlowPrediction,ShortTerm,2019,0,ML_DL
+DeepSTN+: Context-Aware Spatial-Temporal Neural Network for Crowd Flow Prediction in Metropolis,Mix,CrowdFlowPrediction,ShortTerm,2019,23,ML_DL
+Periodic-CRN: A Convolutional Recurrent Model for Crowd Density Prediction with Recurring Periodic Patterns,Mix,CrowdDensity,LongTerm,2018,37,ML_DL
+WarpDriver: context-aware probabilistic motion prediction for crowd simulation,Simulation,CrowdBehavior,LongTerm,2016,40,Model
+Predicting Citywide Crowd Flows in Irregular Regions Using Multi-View Graph Convolutional Networks,Mix,CrowdFlowPrediction,ShortTerm,2020,14,ML_DL
+Network-wide Crowd Flow Prediction of Sydney Trains via Customized Online Non-negative Matrix Factorization,Mix,CrowdFlowPrediction,ShortTerm,2018,13,Model
+Crowd Flow Prediction by Deep Spatio-Temporal Transfer Learning,Mix,CrowdFlowPrediction,ShortTerm,2018,15,ML_DL
+Laying the Foundations of Deep Long-Term Crowd Flow Prediction,Mix,CrowdFlowPrediction,LongTerm,2020,1,ML_DL
+Cross-City Transfer Learning for Deep Spatio-Temporal Prediction,Mix,CrowdFlowPrediction,ShortTerm,2018,16,ML_DL
+Revisiting Spatial-Temporal Similarity: A Deep Learning Framework for Traffic Prediction,RoadSensors,TrafficForecasting,ShortTerm,2018,96,ML_DL
+MTGCN: A Multitask Deep Learning Model for Traffic Flow Prediction,RoadSensors,TrafficForecasting,ShortTerm,2020,0,ML_DL
+State-of-the-art crowd motion simulation models,Simulation,CrowdBehavior,Mix,2013,360,Model
+On current crowd management practices and the need for increased situation awareness prediction and intervention,Mix,CrowdManagement,Mix,2016,19,Evaluation
+On a Model for Prediction of the Movements of a Crowd in Narrow Exits,Simulation,CrowdManagement,ShortTerm,2005,2,Model
+Mobile crowd location prediction with hybrid features using ensemble learning,CDR,CrowdBehavior,ShortTerm,2018,5,ML_DL
+Study on large-scale crowd evacuation method in cultural museum using mutation prediction RFID,RFID,CrowdManagement,ShortTerm,2020,0,Model
+Improving Urban Crowd Flow Prediction on Flexible Region Partition,CDR,CrowdFlowPrediction,ShortTerm,2019,1,ML_DL
+Prediction of Dynamic Crowd Formation in Cellular Networks for Activating Small Cells,CDR,CrowdDensityPrediction,ShortTerm,2015,8,Methodology
+Densely Connected Convolutional Networks With Attention LSTM for Crowd Flows Prediction,Mix,CrowdFlowPrediction,ShortTerm,2019,4,ML_DL
+ST-Attn: Spatial-Temporal Attention Mechanism for Multi-step Citywide Crowd Flow Prediction,Mix,CrowdFlowPrediction,ShortTerm,2019,1,ML_DL
+Crowd behaviour during high-stress evacuations in an immersive virtual environment,Simulation,CrowdManagement,ShortTerm,2016,103,Model
+Learning crowd behavior from real data: A residual network method for crowd simulation,Simulation,CrowdBehavior,ShortTerm,2020,1,ML_DL
+A statistical similarity measure for aggregate crowd dynamics,Mix,CrowdBehavior,ShortTerm,2012,119,Model
+A Novel Learning Approach for Citywide Crowd Flow Prediction,Mix,CrowdFlowPrediction,ShortTerm,2019,0,ML_DL
+Modeling crowd evacuation of a building based on seven methodological approaches,Mix,CrowdManagement,ShortTerm,2008,543,Methodology
+Crowd monitoring using image processing,Vision,CrowdSensing,ShortTerm,1995,450,Methodology
+Crowd and environmental management during mass gatherings,Simulation,EpidemiologicalModelling,LongTerm,2012,113,Model
+Realtime pedestrian tracking and prediction in dense crowds,Vision,CrowdFlowPrediction,RealTime,2017,2,Methodology
+Learning Behavior Patterns from Video: A Data-driven Framework for Agent-based Crowd Modeling,Vision,CrowdBehavior,ShortTerm,2015,32,Model
+ASTIR: Spatio-Temporal Data Mining for Crowd Flow Prediction,Mix,CrowdFlowPrediction,ShortTerm,2019,1,ML_DL
+Modeling Simulation and Visual Analysis of Crowds: A Multidisciplinary Perspective,Vision,CrowdBehavior,Mix,2013,63,Evaluation
+Angry Crowds: Detecting Violent Events in Videos,Vision,CrowdManagement,RealTime,2016,40,Model
+Urban Traffic Prediction from Mobility Data Using Deep Learning,RoadSensors,TrafficForecasting,ShortTerm,2018,46,ML_DL
+Introducing age-based parameters into simulations of crowd dymanics,Simulation,CrowdBehavior,ShortTerm,2008,19,Model
+ACSEE: Antagonistic Crowd Simulation Model with Emotional Contagion and Evolutionary Game Theory,Simulation,CrowdBehavior,ShortTerm,2019,12,Model
+Crowd of Virtual Humans: a New Approach for Real Time Navigation in Complex and Structured Environments,Simulation,CrowdBehavior,RealTime,2004,366,Model
+Estimation of crowd density by clustering motion cues,Vision,CrowdDensity,ShortTerm,2015,30,Methodology
+Data-driven crowd analysis in videos,Vision,CrowdBehavior,ShortTerm,2011,227,Evaluation
+Predicting Social Density in Mass Events to Prevent Crowd Disasters,AppData,CrowdSafety,ShortTerm,2013,15,ML_DL
+Support Vector Machine and Spiking Neural Networks for Data Driven prediction of crowd character movement,Mix,CrowdBehavior,ShortTerm,2018,0,ML_DL
+Saliency in Crowd,Vision,CrowdBehavior,ShortTerm,2014,61,Evaluation
+Virtual Crowds: Methods Simulation and Control. Synthesis Lectures on Computer Graphics and Animation,Simulation,CrowdBehavior,ShortTerm,2008,320,Evaluation
+Crowd Counting and Profiling: Methodology and Evaluation,Mix,CrowdCounting,Mix,2013,157,Evaluation
+An intelligent decision computing paradigm for crowd monitoring in the smart city,Vision,CrowdSensing,ShortTerm,2017,25,Methodology
+Evacuation Planning through Cognitive Crowd Tracking,Vision,CrowdSafety,RealTime,2009,8,Methodology
+Understanding Crowd Flow Movements Using Active-Langevin Model,Vision,CrowdFlowPrediction,ShortTerm,2020,1,Model
+Optical Flow Dataset and Benchmark for Visual Crowd Analysis,Vision,CrowdFlowPrediction,ShortTerm,2018,5,Model
+Realistic Modeling of Agents in Crowd Simulations,Simulation,CrowdBehavior,ShortTerm,2014,10,Model
+Crowd behaviour and motion: Empirical methods,Mix,CrowdBehavior,Mix,2017,99,Evaluation
+Learning Collective Crowd Behaviors with Dynamic Pedestrian-Agents,Simulation,CrowdBehavior,Mix,2015,93,Evaluation
+How big is the crowd?: event and location based population modeling in social media,Social,CrowdSensing,ShortTerm,2013,93,Model
+A Deep Spatiotemporal Perspective for Understanding Crowd Behavior,Mix,CrowdBehavior,ShortTerm,2018,20,ML_DL
+Modelling Crowd Dynamics During Evacuation Situations Using Simulation,Simulation,CrowdManagement,RealTime,2012,16,Model
+Response Surface Analysis of Crowd Dynamics during Tawaf,Simulation,CrowdSafety,RealTime,2012,9,Methodology
+Towards an integrated approach to crowd analysis and crowd synthesis: A case study and first results,Mix,CrowdBehavior,ShortTerm,2013,68,Evaluation
+Crowd behavior analysis under cameras network fusion using probabilistic methods,Mix,CrowdBehavior,ShortTerm,2010,18,Model
+Human behaviours in evacuation crowd dynamics: From modelling to “big data” toward crisis management,Mix,CrowdManagement,ShortTerm,2016,78,Evaluation
+A MACROSCOPIC CROWD MOTION MODEL OF GRADIENT FLOW TYPE,Simulation,CrowdBehavior,ShortTerm,2010,231,Model
+Following the crowd or avoiding it? Empirical investigation of imitative behaviour in emergency escape of human crowds,Simulation,CrowdSafety,RealTime,2016,57,Model
+Estimation of crowd behavior using sensor networks and sensor fusion,Mix,CrowdBehavior,ShortTerm,2009,34,Model
+Fine-grained prediction of urban population using mobile phone location data,CDR,CrowdDensityPrediction,ShortTerm,2018,18,ML_DL
+Saliency detection in human crowd images of different density levels using attention mechanism,Vision,CrowdDensityPrediction,ShortTerm,2019,1,ML_DL
+Recognition of Crowd Behavior from Mobile Sensors with Pattern Analysis and Graph Clustering Methods,Mix,CrowdBehavior,ShortTerm,2011,104,ML_DL
+Crowd Behavior Classification based on Generic Descriptors,Vision,CrowdBehavior,ShortTerm,2019,0,ML_DL
+A Novel Wireless Sensor Network Architecture for Crowd Disaster Mitigation,WiFi,CrowdSafety,ShortTerm,2012,2,Model
+CityTracker: Citywide Individual and Crowd Trajectory Analysis Using Hidden Markov Model,Mix,CrowdFlowPrediction,ShortTerm,2019,4,Model
+Exploiting Multiple Correlations Among Urban Regions for Crowd Flow Prediction,CDR,CrowdFlowPrediction,ShortTerm,2020,0,Methodology
+Spatio-temporal expand-and-squeeze networks for crowd flow prediction in metropolis,Vision,CrowdFlowPrediction,ShortTerm,2020,0,ML_DL
+Exploring the Generalizability of Spatio-Temporal Crowd Flow Prediction: Meta-Modeling and an Analytic Framework,Mix,CrowdFlowPrediction,Mix,2020,0,Evaluation
+ST-DCN: A Spatial-Temporal Densely Connected Networks for Crowd Flow Prediction,Mix,CrowdFlowPrediction,ShortTerm,2019,0,ML_DL
+The Flow of Human Crowds,Mix,CrowdFlowPrediction,Mix,2003,674,Evaluation
+A mathematical model for crowd dynamics: Multiscale analysis fluctuations and random noise,Mix,CrowdBehavior,ShortTerm,2013,13,Model
+Device-free occupancy detection and crowd counting in smart buildings with WiFi-enabled IoT,WiFi,CrowdCounting,RealTime,2018,41,ML_DL
+Vision-based estimation of vertical dynamic loading induced by jumping and bobbing crowds on civil structures,Vision,CrowdSafety,RealTime,2012,30,Methodology
+Crowd Simulation and Its Applications: Recent Advances,Simulation,CrowdBehavior,Mix,2014,49,Evaluation
+Forecasting pedestrian movements using recurrent neural networks: An application of crowd monitoring data,GPS,CrowdFlowPrediction,RealTime,2019,9,ML_DL
+Exemplar-AMMs: Recognizing crowd movements from pedestrian trajectories,Mix,CrowdBehavior,ShortTerm,2016,16,Model
+Experimental study of the behavioural mechanisms underlying self-organization in human crowds,Simulation,CrowdBehavior,ShortTerm,2009,397,Evaluation
+Aggressive Tense or Shy? Identifying Personality Traits from Crowd Videos,Vision,CrowdManagement,RealTime,2017,29,ML_DL
+Enhanced Approach Using Reduced SBTFD Features and Modified Individual Behavior Estimation for Crowd Condition Prediction,AppData,CrowdForecasting,ShortTerm,2019,2,ML_DL
+Modeling crowd dynamics through coarse-grained data analysis,ExperimentalData,CrowdManagement,ShortTerm,2020,8,ML_DL
+Interactive and adaptive data-driven crowd simulation,Simulation,CrowdBehavior,ShortTerm,2016,33,Evaluation
+On the modelling of crowd dynamics by generalized kinetic models,KinematicsData,CrowdBehavior,ShortTerm,2012,51,Model
+How simple rules determine pedestrian behavior and crowd disasters,Mix,CrowdBehavior,ShortTerm,2011,874,Evaluation
+Pedestrian monitoring techniques for crowd-flow prediction,Mix,CrowdFlowPrediction,ShortTerm,2017,4,Methodology
+Prediction of Crowd Movement Using Computer Simulation,Simulation,CrowdFlowPrediction,ShortTerm,1998,2,Model
+GLMP-realtime pedestrian path prediction using global and local movement patterns,Vision,CrowdFlowPrediction,RealTime,2016,43,Methodology
+The impact of real-time information sources on crowd-sourced parking availability prediction,Mix,ParkingAvailability,RealTime,2015,7,Methodology
+Transfer learning for the classification of video-recorded crowd movements,Vision,CrowdBehavior,ShortTerm,2019,1,ML_DL
+Interactive Tracking Prediction and Behavior Learning of Pedestrians in Dense Crowds,Mix,CrowdFlowPrediction,ShortTerm,2017,0,ML_DL
+Crowd simulation for urban planning,Simulation,UrbanPlanning,LongTerm,2008,20,Evaluation
+Lcrowdv: Generating labeled videos for simulation-based crowd behavior learning,Vision,CrowdBehavior,ShortTerm,2016,19,ML_DL
+Semantic trajectory mining for location prediction,Mix,CrowdFlowPrediction,ShortTerm,2011,304,Methodology
+Self-organized pedestrian crowd dynamics: Experiments simulations and design solutions,Simulation,CrowdBehavior,ShortTerm,2005,1333,Model
+Pedestrian behavior understanding and prediction with deep neural networks,Vision,CrowdBehavior,ShortTerm,2016,88,ML_DL
+SS-LSTM: A hierarchical LSTM model for pedestrian trajectory prediction,Vision,CrowdFlowPrediction,ShortTerm,2018,106,ML_DL
+Scene-lstm: A model for human trajectory prediction,Vision,CrowdFlowPrediction,ShortTerm,2018,34,ML_DL
+Towards a cognitive model of crowd behavior based on social comparison theory,Mix,CrowdBehavior,ShortTerm,2007,73,Model
+Simulation of pedestrian crowds in normal and evacuation situations,Simulation,CrowdManagement,ShortTerm,2002,1034,Model
+Modelling and predicting rhythmic flow patterns in dynamic environments,Mix,CrowdDensityPrediction,ShortTerm,2018,16,Methodology
+Learning behavior patterns from video for agent-based crowd modeling and simulation,Vision,CrowdBehavior,ShortTerm,2016,23,ML_DL
+Deepurbanmomentum: An online deep-learning system for short-term urban mobility prediction,Mix,CrowdFlowPrediction,ShortTerm,2018,17,ML_DL
+Estimating Common Pedestrian Routes through Indoor Path Networks Using Position Traces,WiFi,CrowdFlowPrediction,ShortTerm,2014,5,Methodology
+DNN-based prediction model for spatio-temporal data,Mix,CrowdDensityPrediction,ShortTerm,2016,124,ML_DL
+Twitter-Informed Crowd Flow Prediction,Social,CrowdFlowPrediction,ShortTerm,2018,6,Methodology
+SeqST-GAN: Seq2Seq Generative Adversarial Nets for Multi-step Urban Crowd Flow Prediction,Vision,CrowdFlowPrediction,ShortTerm,2020,0,ML_DL
+Interpretable Crowd Flow Prediction with Spatial-Temporal Self-Attention,Mix,CrowdFlowPrediction,ShortTerm,2020,0,ML_DL
+CrowdEstimator: Approximating Crowd Sizes with Multi-modal Data for Internet-of-Things Services,Mix,CrowdCounting,ShortTerm,2018,8,ML_DL

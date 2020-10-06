@@ -1,0 +1,15 @@
+title,data_used,use_case_scenario,forecasting_scenario,year,nr_citations,approach
+Advances and trends in visual crowd analysis: A systematic survey and evaluation of crowd modelling techniques,Vision,CrowdBehavior,Mix,2015,51,Evaluation
+Physics inspired methods for crowd video surveillance and analysis: a survey,Mix,CrowdSurveillance,ShortTerm,2018,24,Evaluation
+Single-image crowd counting: a comparative survey on deep learning-based approaches,Mix,CrowdCounting,Mix,2019,0,Evaluation
+A Survey on Mobile Crowd-Sensing and Its Applications in the IoT Era,Survey,CrowdSensing,Mix,2018,19,Evaluation
+Visual analysis of socio-cognitive crowd behaviors for surveillance: A survey and categorization of trends and methods,Survey,CrowdSurveillance,Mix,2019,7,Evaluation
+Crowd analysis: a survey,Survey,CrowdAnalysis,Mix,2008,569,Evaluation
+A review on the performance of an obstacle near an exit on pedestrian crowd evacuation,Survey,CrowdSafety,ShortTerm,2018,23,Evaluation
+Crowd Scene Understanding from Video: A Survey,Mix,CrowdBehavior,Mix,2017,40,Evaluation
+Human motion trajectory prediction: a survey,Mix,CrowdFlowPrediction,Mix,2020,72,Evaluation
+Mobile crowd sensing of human-like intelligence using social sensors: A survey,Survey,CrowdSensing,ShortTerm,2018,32,Evaluation
+A review of studies on understanding crowd dynamics in the context of crowd safety in mass religious gatherings,Mix,CrowdSafety,RealTime,2017,30,Evaluation
+Urban Sensing Using Mobile Phone Network Data: A Survey of Research,CDR,CrowdSensing,ShortTerm,2014,107,Evaluation
+Comparing Three Types of Real-Time Data Collection Techniques: Counting Cameras Wi-Fi Sensors and GPS Trackers,Mix,CrowdManagement,ShortTerm,2016,12,Evaluation
+Comparison of Main Approaches for Extracting Behavior Features from Crowd Flow Analysis,Mix,CrowdBehavior,Mix,2019,4,Evaluation
